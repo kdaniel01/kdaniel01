@@ -4,9 +4,12 @@
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- <b>Active Directory Homelab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Azure Virtual Network Peering Project</b>
+  - https://github.com/kdaniel01/Azure-Virtual-Network-Peering-Project
 
+  - <b>Azure On-premises Active Directory Project</b>
+  - https://github.com/kdaniel01/Azure-On-Prem-Active-Directory-
+  
 <h2>📄Certifications</h2>
 
 - [Microsoft Azure Fundamentals AZ-900](https://www.credly.com/badges/cb38b5e2-315a-465e-893e-fa1db796e06b/linked_in_profile)
