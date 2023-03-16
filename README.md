@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 - <b>Azure Virtual Network Peering Project</b>
-  - [VNets, VMs, Global Peering](https://github.com/kdaniel01/Azure-Virtual-Network-Peering-Project)
+  - [VNets, VMs, Global VNet Peering](https://github.com/kdaniel01/Azure-Virtual-Network-Peering-Project)
 
 - <b>Azure On-premises Active Directory Project</b>
   - [Active Directory, Group Policy, Server Manager](https://github.com/kdaniel01/Azure-On-Prem-Active-Directory-)
