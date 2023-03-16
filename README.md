@@ -8,7 +8,7 @@
   - [VNets, VMs, Global VNet Peering](https://github.com/kdaniel01/Azure-Virtual-Network-Peering-Project)
 
 - <b>Azure On-premises Active Directory Project</b>
-  - [Active Directory, Group Policy, Server Manager, Provisioning](https://github.com/kdaniel01/Azure-On-Prem-Active-Directory-)
+  - [Windows Server, Active Directory, Group Policy, Server Manager, Provisioning](https://github.com/kdaniel01/Azure-On-Prem-Active-Directory-)
   
 <h2>📄Certifications</h2>
 
