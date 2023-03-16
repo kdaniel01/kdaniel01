@@ -5,10 +5,10 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 - <b>Azure Virtual Network Peering Project</b>
-  - https://github.com/kdaniel01/Azure-Virtual-Network-Peering-Project
+  - [VNets, VMs, Global Peering](https://github.com/kdaniel01/Azure-Virtual-Network-Peering-Project)
 
   - <b>Azure On-premises Active Directory Project</b>
-  - https://github.com/kdaniel01/Azure-On-Prem-Active-Directory-
+  - [Active Directory, Group Policy, Server Manager](https://github.com/kdaniel01/Azure-On-Prem-Active-Directory-)
   
 <h2>📄Certifications</h2>
 
