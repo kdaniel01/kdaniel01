@@ -23,7 +23,7 @@
 - <b>Homelab Environment Server 2022 Administration:</b>
   - [Lab Environment with fully configured AD DS, DNS and DHCP Server](https://github.com/kdaniel01/HomeLab-Environment-) 
   
-- <b> Network Shared drives and Permissions</b>
+- <b> Network Shared drives and Permissions:</b>
   - [Network Drives, GPO, Global Security, Active Directory](https://github.com/kdaniel01/Network-Drives-and-Permissions) 
 
   
