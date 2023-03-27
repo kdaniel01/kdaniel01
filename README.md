@@ -18,6 +18,11 @@
   - <b>Part 2- Checking for connectivity between Client Virtual Machines and Domain Controller<br />
   - <b>Part 3- Installing Active Directory and Admin Creation<br />
   
+  <h2>👨‍💻 System Administration Projects:</h2>
+  - <b> [Lab Environment with fully configured AD DS, DNS Server and DHCP Server](https://github.com/kdaniel01/HomeLab-Environment) :</b>
+
+  
+  
 <h2>📄Certifications</h2>
 
 - [Microsoft Azure Fundamentals AZ-900](https://www.credly.com/badges/cb38b5e2-315a-465e-893e-fa1db796e06b/linked_in_profile)
