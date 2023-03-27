@@ -20,7 +20,7 @@
   
 <h2>👨‍💻 System Administration Projects:</h2>
   
-  <b>Homelab Environment Server 2022 Administration:</b>
+- <b>Homelab Environment Server 2022 Administration:</b>
   - [Lab Environment with fully configured AD DS, DNS and DHCP Server](https://github.com/kdaniel01/HomeLab-Environment-) 
 
   
