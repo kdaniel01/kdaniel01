@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Kashef! <h1>
 
-<h2>👨‍💻 Cloud Projects:</h2>
+<h2>👨‍💻 Cloud / System Administration Projects:</h2>
 
 - <b>Azure Virtual Network Peering Project:</b>
   - [VNets, VMs, Global VNet Peering](https://github.com/kdaniel01/Azure-Virtual-Network-Peering-Project)
