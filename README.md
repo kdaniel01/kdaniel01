@@ -6,9 +6,17 @@
 
 - <b>Azure Virtual Network Peering Project:</b>
   - [VNets, VMs, Global VNet Peering](https://github.com/kdaniel01/Azure-Virtual-Network-Peering-Project)
+  - <b>Part 1- Created Virtual Networks and Subnets<br /> 
+  - <b>Part 2- Configured DNS for company Dannytech<br />
+  - <b>Part 3- Connected 2 Virtual Networks (Coreservices VNet (East US) to Manufacturing VNet (West Europe) )<br />
 
+  
+  
 - <b>Azure On-premises Active Directory Project:</b>
   - [Windows Server, Active Directory, Group Policy, Server Manager, Provisioning](https://github.com/kdaniel01/Azure-On-Prem-Active-Directory-)
+  - <b>Part 1- Deploying Resources in Azure<br /> 
+  - <b>Part 2- Checking for connectivity between Client Virtual Machines and Domain Controller<br />
+  - <b>Part 3- Installing Active Directory and Admin Creation<br />
   
 <h2>📄Certifications</h2>
 
