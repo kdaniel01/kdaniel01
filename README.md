@@ -2,6 +2,15 @@
 
 <h1>Hi, I'm Kashef! <h1>
 
+  <h2>👨‍💻 Cyber Security Project:</h2>
+
+- <b>Azure sentinel SIEM project:</b>
+  - [SIEM, Sentinel, Log Analytics Workspace, Windows Event Viewer, Firewalls, RDP, Logs](https://github.com/kdaniel01/Azure-Virtual-Network-Peering-Project)
+  - <b>Part 1- Creating Honeypot VM and RDP VM.<br />
+  - <b>Part 2- Creating the custom log in the Log Analytics Workspace.<br />
+  - <b>Part 3- Creating the failed rdp map in Sentinel.<br />
+  
+  
 <h2>👨‍💻 Cloud / System Administration Projects:</h2>
 
 - <b>Azure Virtual Network Peering Project:</b>
