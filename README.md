@@ -5,7 +5,7 @@
   <h2>👨‍💻 Cyber Security Project:</h2>
 
 - <b>Azure sentinel SIEM project:</b>
-  - [SIEM, Sentinel, Log Analytics Workspace, Windows Event Viewer, Firewalls, RDP, Logs](https://github.com/kdaniel01/Azure-Virtual-Network-Peering-Project)
+  - [SIEM, Sentinel, Log Analytics Workspace, Windows Event Viewer, Firewalls, RDP, Logs](https://github.com/kdaniel01/SIEMproject)
   - <b>Part 1- Creating Honeypot VM and RDP VM.<br />
   - <b>Part 2- Creating the custom log in the Log Analytics Workspace.<br />
   - <b>Part 3- Creating the failed rdp map in Sentinel.<br />
