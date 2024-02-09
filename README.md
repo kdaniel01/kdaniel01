@@ -27,7 +27,7 @@
   - <b>Part 2- Checking for connectivity between Client Virtual Machines and Domain Controller<br />
   - <b>Part 3- Installing Active Directory and Admin Creation<br />
   
-<h2>👨‍💻 System Administration Projects:</h2>
+<h2>👨‍💻 IAM System Administration Projects:</h2>
   
 - <b>Home lab Environment Server 2022 Administration:</b>
   - [Lab Environment with fully configured AD DS, DNS and DHCP Server](https://github.com/kdaniel01/HomeLab-Environment-) 
