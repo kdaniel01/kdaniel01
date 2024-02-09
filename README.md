@@ -39,9 +39,13 @@
   
 <h2>📄Certifications</h2>
 
+- [Okta Professional](https://www.credly.com/badges/1480995e-e778-4f27-8eac-c61e7c6f912f/linked_in_profile)
+- [Microsoft Security, Compliance and Identity SC-900](https://learn.microsoft.com/en-us/users/kashefdaniel-6844/credentials/9134c06a8bcee97?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft Azure Fundamentals AZ-900](https://www.credly.com/badges/cb38b5e2-315a-465e-893e-fa1db796e06b/linked_in_profile)
 - [CompTIA Network+](https://www.credly.com/badges/1a45bb00-bd54-4d22-8c7a-4925f0d9e5f9)
 - [CompTIA Security+](https://www.credly.com/badges/c8f97729-8886-4dc3-9ed7-84ea65430ab4)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
